@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6E2FD4,9B59F5,C084FC,DDD6FE&height=220&section=header&text=Eduardo%20Cavalheiro%20Dias&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Engenharia%20de%20Software%20%7C%20Futuro%20Dev%20de%20IA%20%F0%9F%A4%96&descAlignY=58&descSize=17&descColor=ede9fe&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,50:7c3aed,100:c084fc&height=220&section=header&text=Eduardo%20Cavalheiro%20Dias&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Engenharia%20de%20Software%20%7C%20Futuro%20Dev%20de%20IA%20%F0%9F%A4%96&descAlignY=58&descSize=17&descColor=ede9fe&animation=fadeIn" width="100%"/>
 
 <br/>
 
@@ -32,22 +32,22 @@
 class Eduardo:
 
     # ── identidade ────────────────────────────────────────────
-    nome       = "Eduardo Cavalheiro Dias"
-    username   = "EduCavDias"
+    nome        = "Eduardo Cavalheiro Dias"
+    username    = "EduCavDias"
     localizacao = "Curitiba, PR — Brasil 🇧🇷"
-    faculdade  = "PUCPR — Pontifícia Universidade Católica do Paraná"
-    curso      = "Engenharia de Software"
-    semestre   = "1º semestre (2025)"
+    faculdade   = "PUCPR — Pontifícia Universidade Católica do Paraná"
+    curso       = "Engenharia de Software"
+    semestre    = "1º semestre (2025)"
 
     # ── stack atual ───────────────────────────────────────────
-    linguagens = ["Python 🐍", "HTML5", "CSS3", "JavaScript (básico)"]
-    estudando  = ["Python avançado", "Machine Learning", "Algoritmos & ES"]
+    linguagens  = ["Python 🐍", "HTML5", "CSS3", "JavaScript (básico)"]
+    estudando   = ["Python avançado", "Machine Learning", "Algoritmos & ES"]
     ferramentas = ["Git", "GitHub", "VS Code", "Firebase"]
 
     # ── missão ────────────────────────────────────────────────
-    objetivo   = "Trabalhar com Inteligência Artificial 🤖"
-    motivacao  = "Crescer na área de IA e impactar o mundo com tecnologia"
-    foco_2025  = "Dominar Python · Construir projetos reais · Networking"
+    objetivo    = "Trabalhar com Inteligência Artificial 🤖"
+    motivacao   = "Crescer na área de IA e impactar o mundo com tecnologia"
+    foco_2025   = "Dominar Python · Construir projetos reais · Networking"
 
     def apresentacao(self):
         return (
@@ -114,16 +114,15 @@ print(eduardo.apresentacao())
 ```
 
 **O que o Pontux faz:**
-
 - 📍 Registro de ponto com **verificação de localização GPS** (raio configurável)
 - 👤 Controle de presença individual por aprendiz e turma
-- 📊 **Dashboard administrativo** com gráficos de frequência e estatísticas em tempo real
+- 📊 **Dashboard administrativo** com gráficos de frequência em tempo real
 - 🔄 Sistema de **troca de dias** entre aprendizes com aprovação do admin
 - 📅 Gerenciamento de feriados, turmas e configurações do sistema
-- 🛡️ Regras de segurança Firestore para proteção contra fraudes
+- 🛡️ Regras de segurança Firestore contra fraudes
 - 📤 **Exportação de relatórios** em CSV
 
-[![Pontux](https://img.shields.io/badge/🎯%20Ver%20Projeto-Pontux-7c3aed?style=for-the-badge)](https://sistema-presenca-curso-abcvida.web.app)
+[![Pontux](https://img.shields.io/badge/🎯_Ver_Projeto_ao_Vivo-Pontux-7c3aed?style=for-the-badge)](https://sistema-presenca-curso-abcvida.web.app)
 [![GitHub](https://img.shields.io/badge/Código-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/EduCavDias)
 
 ---
@@ -132,7 +131,7 @@ print(eduardo.apresentacao())
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=EduCavDias&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=7c3aed&title_color=c084fc&icon_color=a855f7&text_color=ede9fe&bg_color=0d1117&hide_border=false&rank_icon=github"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=EduCavDias&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=7c3aed&title_color=c084fc&icon_color=a855f7&text_color=ede9fe&bg_color=0d1117"/>
 
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduCavDias&layout=compact&langs_count=6&theme=tokyonight&border_color=7c3aed&title_color=c084fc&text_color=ede9fe&bg_color=0d1117"/>
 
@@ -150,7 +149,7 @@ print(eduardo.apresentacao())
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=EduCavDias&bg_color=0d1117&color=c084fc&line=7c3aed&point=ede9fe&area=true&area_color=4c1d9540&border_color=7c3aed)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=EduCavDias&bg_color=0d1117&color=c084fc&line=7c3aed&point=ede9fe&area=true&area_color=7c3aed&border_color=7c3aed)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -169,12 +168,12 @@ print(eduardo.apresentacao())
 ## 🤖 Meu Roadmap em IA
 
 ```
-2025 ████████░░░░░░░░░░░░  Fundamentos Python + Algoritmos (agora)
-2025 ██████░░░░░░░░░░░░░░  Matemática para ML (Álgebra Linear + Stats)
-2025 ████░░░░░░░░░░░░░░░░  Primeiro modelo de ML com scikit-learn
-2026 ██░░░░░░░░░░░░░░░░░░  Deep Learning com TensorFlow / PyTorch
-2026 ░░░░░░░░░░░░░░░░░░░░  Projetos reais com dados (Kaggle competitions)
-2027 ░░░░░░░░░░░░░░░░░░░░  Estágio / trabalho na área de IA 🎯
+2025 ████████░░░░░░░░  Fundamentos Python + Algoritmos     ← você está aqui
+2025 ██████░░░░░░░░░░  Matemática para ML
+2025 ████░░░░░░░░░░░░  Primeiro modelo com scikit-learn
+2026 ██░░░░░░░░░░░░░░  Deep Learning — TensorFlow / PyTorch
+2026 ░░░░░░░░░░░░░░░░  Projetos reais com dados (Kaggle)
+2027 ░░░░░░░░░░░░░░░░  Estágio / trabalho na área de IA  🎯
 ```
 
 ---
@@ -212,6 +211,6 @@ print(eduardo.apresentacao())
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6E2FD4,9B59F5,C084FC,DDD6FE&height=130&section=footer&text=Curitiba%2C%20PR%20%F0%9F%87%A7%F0%9F%87%B7%20%E2%80%94%20Engenharia%20de%20Software%20%F0%9F%92%9C&fontSize=14&fontColor=ede9fe&fontAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,50:7c3aed,100:c084fc&height=130&section=footer&text=Curitiba%2C%20PR%20%F0%9F%87%A7%F0%9F%87%B7%20%E2%80%94%20Engenharia%20de%20Software%20%F0%9F%92%9C&fontSize=14&fontColor=ede9fe&fontAlignY=65" width="100%"/>
 
 </div>
