@@ -52,11 +52,11 @@ class Eduardo:
     def apresentacao(self):
         return (
             "Olá! Sou estudante de 1º semestre na PUCPR, "
-            "apaixonado por tecnologia desde cedo. "
+            "gosto de tecnologia. "
             "Já lancei meu primeiro sistema real em produção — o Pontux — "
             "e não pretendo parar por aí. Meu foco é IA: "
             "acredito que quem domina isso hoje, "
-            "lidera o mercado amanhã. 💜"
+            "lidera o mercado no futuro. 💜"
         )
 
 eduardo = Eduardo()
